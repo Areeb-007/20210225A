@@ -4,3 +4,4 @@ Line number 3.
 Line number 4(Changed from Local Repository For Merge Conflicts ).
 Line number 5 (from git).
 Line number 6 ( from newBranch)
+Line number 7 (edited online as a test case).
